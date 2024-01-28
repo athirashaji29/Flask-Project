@@ -25,12 +25,6 @@ After extensive experimentation, our models demonstrated promising results in pr
 **Future Enhancements**
 We envision expanding our project by incorporating additional features, optimizing model parameters, and exploring advanced machine learning techniques. Continuous improvement is key to ensuring the accuracy and reliability of our education predictor.
 
-**Contributions**
-Team Lead: **ANUSHA PS**
-Backend Development: **ATHIRA SHAJI**
-Frontend Development: **ARUN M**
-Machine Learning Models: **ATHIRA SHAJI**
-Documentation: **JOFIN JAMES SHIBY**
 
 **Acknowledgments**
 We express our gratitude to the hackathon organizers, mentors, and fellow participants for the enriching experience. Our commitment to SDG 4 drives us to further refine and expand our education predictor for the betterment of students worldwide.
